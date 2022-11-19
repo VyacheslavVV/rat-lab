@@ -77,3 +77,8 @@ an expected response example is:
 ```
 Something went wrong
 ```
+
+
+## .Net features
+
+1. Action filters - Filters/ExampleActionFilter.cs
