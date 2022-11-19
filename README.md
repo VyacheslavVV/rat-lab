@@ -82,3 +82,6 @@ Something went wrong
 ## .Net features
 
 1. Action filters - Filters/ExampleActionFilter.cs
+2. Configuration validation
+  2.1 configuration class: Classes/RedisOptions.cs
+  2.2 validation launched in Program.cs:11-14
